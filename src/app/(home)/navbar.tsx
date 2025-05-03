@@ -17,7 +17,7 @@ const Navbar = () => {
             style={{ width: "auto", height: "auto" }}
           />
         </Link>
-        <h3 className="text-xl">Docs</h3>
+        <h3 className="text-xl">DOX</h3>
       </div>
       <SearchInput />
       <div className="flex gap-3 items-center pl-6">
